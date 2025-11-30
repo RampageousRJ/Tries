@@ -1,0 +1,5 @@
+Input:  
+["trie", "insert", "countMatches", "insert", "countPrefix", "erase", "countPrefix"]  
+[ [], ["apple"], ["apple"], ["app"], ["app"], ["apple"], ["app"] ]  
+Output: 
+[null, null, 1, null, 2, null, 1]
